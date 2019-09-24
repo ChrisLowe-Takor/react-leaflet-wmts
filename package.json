@@ -1,12 +1,12 @@
 {
   "name": "react-leaflet-wmts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "WMTS TileLayer plugin to react-leaflet",
   "files": [
     "lib/*"
   ],
   "main": "lib/index.js",
-  "repository": "github.com:mpivaa/react-leaflet-wmts",
+  "repository": "github.com:ChrisLowe-Takor/react-leaflet-wmts",
   "author": "Marcelo Piva <m.pivaa@gmail.com>",
   "license": "MIT",
   "dependencies": {
